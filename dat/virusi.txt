@@ -1,0 +1,16 @@
+1
+COVID-19
+1,2,3
+2
+2
+ZIKA
+3
+2
+3
+KONJUKTIVITIS
+1,3,5
+2
+4
+SARS
+1,2,3,4
+2
